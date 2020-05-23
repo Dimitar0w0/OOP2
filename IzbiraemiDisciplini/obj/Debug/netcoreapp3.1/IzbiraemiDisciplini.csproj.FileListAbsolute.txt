@@ -1,0 +1,13 @@
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\bin\Debug\netcoreapp3.1\IzbiraemiDisciplini.exe
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\bin\Debug\netcoreapp3.1\IzbiraemiDisciplini.deps.json
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\bin\Debug\netcoreapp3.1\IzbiraemiDisciplini.runtimeconfig.json
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\bin\Debug\netcoreapp3.1\IzbiraemiDisciplini.runtimeconfig.dev.json
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\bin\Debug\netcoreapp3.1\IzbiraemiDisciplini.dll
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\bin\Debug\netcoreapp3.1\IzbiraemiDisciplini.pdb
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\obj\Debug\netcoreapp3.1\IzbiraemiDisciplini.csprojAssemblyReference.cache
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\obj\Debug\netcoreapp3.1\IzbiraemiDisciplini.csproj.CoreCompileInputs.cache
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\obj\Debug\netcoreapp3.1\IzbiraemiDisciplini.AssemblyInfoInputs.cache
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\obj\Debug\netcoreapp3.1\IzbiraemiDisciplini.AssemblyInfo.cs
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\obj\Debug\netcoreapp3.1\IzbiraemiDisciplini.dll
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\obj\Debug\netcoreapp3.1\IzbiraemiDisciplini.pdb
+C:\Users\A Prideful Spirit\source\repos\IzbiraemiDisciplini\IzbiraemiDisciplini\obj\Debug\netcoreapp3.1\IzbiraemiDisciplini.genruntimeconfig.cache
